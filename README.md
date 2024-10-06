@@ -1,3 +1,3 @@
-# simon says game
+# Simon Says Game
 
-this is my first project using HTML,CSS & JavaScript.
+this is my first project using HTML,CSS &JavaScript.
